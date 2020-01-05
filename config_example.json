@@ -1,0 +1,5 @@
+{
+  "mongo_host":"",
+  "database": "move_image",
+  "sleep_time": 0.5
+}
